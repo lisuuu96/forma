@@ -1,0 +1,13 @@
+#input-name,#lastname,#input-phone{
+    background-color: beige;
+    color: blueviolet;
+    display: block;
+}
+
+
+button{
+    margin: 10px;
+    background-color: lawngreen;
+    color: rgb(194, 42, 42);
+}
+button:hover{background-color: aqua;}
